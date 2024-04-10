@@ -1,7 +1,7 @@
 # Adv_GIS_Skid
 Adv_GIS_Skid
 Advanced GIS Teaching Project: Introduction to GitHub
-## This is a repository that I created for my Skidmore Advanced GIS teaching project. In this repository I will store files and code that relate to teaching new GitHub users how to
+## This is a repository that I created for my Skidmore Advanced GIS teaching project. In this repository I will store files and code that relate to teaching new GitHub users how to navigate this platform.
 
 ## In this repository students will...
 ### 1) Create a repository
